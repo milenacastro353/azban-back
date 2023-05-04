@@ -1,0 +1,12 @@
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\BlobStorageAccess.csproj.AssemblyReference.cache
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\BlobStorageAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\BlobStorageAccess.AssemblyInfoInputs.cache
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\BlobStorageAccess.AssemblyInfo.cs
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\bin\Release\net5.0\BlobStorageAccess.deps.json
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\bin\Release\net5.0\BlobStorageAccess.dll
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\bin\Release\net5.0\ref\BlobStorageAccess.dll
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\bin\Release\net5.0\BlobStorageAccess.pdb
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\BlobStorageAccess.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\BlobStorageAccess.dll
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\ref\BlobStorageAccess.dll
+C:\Users\Fredy Guio\source\repos\Azban\BlobStorageAccess\obj\Release\net5.0\BlobStorageAccess.pdb

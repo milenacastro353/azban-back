@@ -1,0 +1,16 @@
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\Repository.AssemblyInfo.cs
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\Repository.deps.json
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\Repository.dll
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\ref\Repository.dll
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\Repository.pdb
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\BlobStorageAccess.dll
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\DataAccess.dll
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\BlobStorageAccess.pdb
+C:\Users\Fredy Guio\source\repos\Azban\Repository\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\Repository.dll
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\ref\Repository.dll
+C:\Users\Fredy Guio\source\repos\Azban\Repository\obj\Release\net5.0\Repository.pdb
